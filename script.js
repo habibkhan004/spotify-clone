@@ -10,7 +10,7 @@ let songNamespan=document.getElementById("songNamespan")
 
 
 let songs=[
-    {songName:"let me love you" , filePath:"Songs/1.mp3" ,cover:"covers/1.jpg"},
+    {songName:"let me love you" , filePath:"1.mp3" ,cover:"covers/1.jpg"},
     {songName:"kabi jo badal barsay" , filePath:"Songs/2.mp3" ,cover:"covers/2.jpg"},
     {songName:"ankh uthi muhabbat nai" , filePath:"Songs/3.mp3" ,cover:"covers/3.jpg"},
     {songName:"tere sang yaraaa" , filePath:"Songs/4.mp3" ,cover:"covers/4.jpg"},
