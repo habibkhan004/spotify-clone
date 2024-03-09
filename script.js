@@ -10,16 +10,16 @@ let songNamespan=document.getElementById("songNamespan")
 
 
 let songs=[
-    {songName:"let me love you" , filePath:"1.mp3" ,cover:"covers/1.jpg"},
-    {songName:"kabi jo badal barsay" , filePath:"Songs/2.mp3" ,cover:"covers/2.jpg"},
-    {songName:"ankh uthi muhabbat nai" , filePath:"Songs/3.mp3" ,cover:"covers/3.jpg"},
-    {songName:"tere sang yaraaa" , filePath:"Songs/4.mp3" ,cover:"covers/4.jpg"},
-    {songName:"teri meri meri teri" , filePath:"Songs/5.mp3" ,cover:"covers/5.jpg"},
-    {songName:"meri rashkay qamar" , filePath:"Songs/6.mp3" ,cover:"covers/6.jpg"},
-    {songName:"aaj ruswa teri galio main" , filePath:"Songs/7.mp3" ,cover:"covers/7.jpg"},
-    {songName:"main tum say ishq karnay ki" , filePath:"Songs/8.mp3" ,cover:"covers/8.jpg"},
-    {songName:"bohat piyar kartay hain" , filePath:"Songs/9.mp3" ,cover:"covers/9.jpg"},
-    {songName:"marjawaan" , filePath:"Songs/10.mp3" ,cover:"covers/1.jpg"}
+    {songName:"let me love you" , filePath:"https://raw.githubusercontent.com/habibkhan004/spotify-clone/main/Songs/1.mp3" ,cover:"covers/1.jpg"},
+    {songName:"kabi jo badal barsay" , filePath:"https://raw.githubusercontent.com/habibkhan004/spotify-clone/main/Songs/2.mp3" ,cover:"covers/2.jpg"},
+    {songName:"ankh uthi muhabbat nai" , filePath:"https://raw.githubusercontent.com/habibkhan004/spotify-clone/main/Songs/3.mp3" ,cover:"covers/3.jpg"},
+    {songName:"tere sang yaraaa" , filePath:"https://raw.githubusercontent.com/habibkhan004/spotify-clone/main/Songs/4.mp3" ,cover:"covers/4.jpg"},
+    {songName:"teri meri meri teri" , filePath:"https://raw.githubusercontent.com/habibkhan004/spotify-clone/main/Songs/5.mp3" ,cover:"covers/5.jpg"},
+    {songName:"meri rashkay qamar" , filePath:"https://raw.githubusercontent.com/habibkhan004/spotify-clone/main/Songs/6.mp3" ,cover:"covers/6.jpg"},
+    {songName:"aaj ruswa teri galio main" , filePath:"https://raw.githubusercontent.com/habibkhan004/spotify-clone/main/Songs/7.mp3" ,cover:"covers/7.jpg"},
+    {songName:"main tum say ishq karnay ki" , filePath:"https://raw.githubusercontent.com/habibkhan004/spotify-clone/main/Songs/8.mp3" ,cover:"covers/8.jpg"},
+    {songName:"bohat piyar kartay hain" , filePath:"https://raw.githubusercontent.com/habibkhan004/spotify-clone/main/Songs/9.mp3" ,cover:"covers/9.jpg"},
+    {songName:"marjawaan" , filePath:"https://raw.githubusercontent.com/habibkhan004/spotify-clone/main/Songs/10.mp3" ,cover:"covers/1.jpg"}
 ]
 
 let myProgressBar=document.getElementById("bar")
